@@ -3,6 +3,8 @@
 
 Advanced TETRIS Game
 
+![Example Image](https://github.com/pazblu/tetris/blob/main/tetris.png)
+
 ## Description
 
 This project is an advanced version of the classic TETRIS game implemented as a console application in C++.
